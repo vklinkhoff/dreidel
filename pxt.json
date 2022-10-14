@@ -8,7 +8,8 @@
     },
     "files": [
         "README.md",
-        "dreideltutoiral.md"
+        "dreideltutoiral.md",
+        "main.py"
     ],
     "testFiles": [
         "test.ts"

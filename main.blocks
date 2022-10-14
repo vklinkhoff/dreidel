@@ -1,0 +1,25 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="tNpsuBmP8nhmc~N^@8/e">Letter</variable></variables><block type="pxt-on-start" id="Ratc8t|wCjeLJJ=^F^.(" x="0" y="0"><statement name="HANDLER"><block type="device_show_leds" id="6X(I|J?!5j8,j7j]5;[H"><field name="LEDS">`
+        . # # # . 
+        . . . # . 
+        . # # # . 
+        . # . # . 
+        . # . # .
+        `</field><next><block type="device_show_leds" id="%/Expc~.AD)~udQY3X_}"><field name="LEDS">`
+        . . # # . 
+        . # . # . 
+        . . . # . 
+        . . . # . 
+        . # # # .
+        `</field><next><block type="device_show_leds" id="J!;sP|5=|sxz_jYol;A%"><field name="LEDS">`
+        . . . . . 
+        . # # # . 
+        . . . # . 
+        . # . # . 
+        . # . # .
+        `</field><next><block type="device_show_leds" id="-4c^#@zU?Zk{[J5Tj3,D"><field name="LEDS">`
+        # . # . # 
+        # . # . # 
+        # # # . # 
+        # . . . # 
+        . # # # .
+        `</field></block></next></block></next></block></next></block></statement></block><block type="controls_repeat_ext" id="iVG0%={UzCE9@0v_Qn@w" disabled="true" x="588" y="81"><value name="TIMES"><shadow type="math_whole_number" id="3JbD)|RJh3[E)Aap*qU," disabled="true"><field name="NUM">7</field></shadow></value></block><block type="device_forever" id="-OEwEm$UWk]ft!Mn`Wep" x="328" y="122"></block><block type="device_gesture_event" id="mYF`+M{+:O?4O7[t#XCu" x="99" y="153"><field name="NAME">Gesture.Shake</field></block></xml>
